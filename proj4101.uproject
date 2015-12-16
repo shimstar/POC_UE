@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{5878A2F8-456E-A000-EA95-ED84D0D1A46E}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "proj4101",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
+	]
+}
