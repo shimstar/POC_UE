@@ -15,7 +15,6 @@ class PROJ4101_API UMyGameInstance : public UGameInstance
 	
 public:
 	UFUNCTION(BlueprintCallable, Category = "Session")
-		bool ClientTravelToServer();
-	
-	
+		bool ClientTravelToServer(FString ip);
+		
 };
